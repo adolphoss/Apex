@@ -9,7 +9,7 @@ public class Selenium {
 		// TODO Auto-generated method stub
 		
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.google.com");
+		driver.get("https://www.facebook.com");
 
 	}
 
